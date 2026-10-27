@@ -7,8 +7,12 @@ test('database, CMS, forms, sessions, uploads and TOTP integration',async()=>{pr
  let x=await call('/');assert.equal(x.r.status,200);assert.match(x.d,/data-shared="header"/);assert.match(x.d,/data-record-id="ca"/);assert.ok(!x.d.includes('🏛'));
  for(const p of ['/data/site-settings.json','/.git/config','/.env','/server/app.js','/package-lock.json','/partials/header.html'])assert.notEqual((await call(p)).r.status,200,p);
  assert.equal((await call('/api/admin/content/blog_posts')).r.status,401);
+ assert.equal((await call('/api/admin/database-backups')).r.status,401);
+ assert.equal((await call('/api/admin/database-backups/manual-2026-abcdef123456.json')).r.status,401);
  x=await call('/api/admin/session');assert.equal(x.d.authenticated,false);
  x=await call('/api/admin/login','POST',{username:'qa',password});assert.equal(x.r.status,200);assert.match(cookie,/logic_admin_session=/);
+ assert.equal((await call('/api/admin/database-backups','POST',{password},{'X-CSRF-Token':''})).r.status,403);
+ assert.equal((await call('/api/admin/database-backups','POST',{password})).r.status,409);
  x=await call('/api/admin/settings','PUT',{phone:'+91 12345 67890'},{'X-CSRF-Token':''});assert.equal(x.r.status,403);
  x=await call('/api/admin/settings','PUT',{phone:'+91 12345 67890'});assert.equal(x.r.status,200);
  x=await call('/api/public/settings');assert.equal(x.d.settings.phone,'+91 12345 67890');assert.equal(x.d.settings.brochures,undefined);

@@ -12,3 +12,5 @@ data/dev-db/
 
 dist/
 data/postgres-export.json
+
+data/database-backups/
