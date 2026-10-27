@@ -1,0 +1,5 @@
+/* Return link within course heroes; inherits the website's type and green palette. */
+.course-back-nav{margin:0 0 24px}
+.course-back-link{display:inline-flex;align-items:center;gap:9px;min-height:44px;padding:10px 16px;border:1px solid rgba(185,232,204,.3);border-radius:12px;background:rgba(255,255,255,.07);color:#effff5;font-size:13px;font-weight:700;line-height:1.5;text-decoration:none}
+.course-back-link:hover{background:rgba(255,255,255,.14);border-color:rgba(185,232,204,.65)}
+.course-back-link:focus-visible{outline:2px solid var(--yellow,#ffd33d);outline-offset:4px}

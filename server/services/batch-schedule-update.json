@@ -1,0 +1,378 @@
+{
+  "source": "https://logiceducation.org/batch-scheduled/",
+  "checkedAt": "2026-10-10",
+  "updates": [
+    {
+      "id": "site-batch-0",
+      "before": {
+        "kind": "batches",
+        "title": "EA",
+        "branch": "Online",
+        "startDate": "",
+        "schedule": "20 Aug 2026",
+        "year": 2026,
+        "time": "7 PM – 9 PM",
+        "mode": "Online",
+        "url": "/admissions?course=EA",
+        "status": "published",
+        "order": 0,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "EA",
+        "branch": "Online",
+        "startDate": "2026-08-20",
+        "schedule": "2026-08-20",
+        "year": 2026,
+        "time": "7 pm -9pm",
+        "mode": "Online",
+        "url": "/admissions?course=EA",
+        "status": "published",
+        "order": 0,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-1",
+      "before": {
+        "kind": "batches",
+        "title": "CMA USA",
+        "branch": "Kochi",
+        "startDate": "",
+        "schedule": "26 Aug 2026",
+        "year": 2026,
+        "time": "9 AM – 5 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=CMA%20USA",
+        "status": "published",
+        "order": 1,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "CMA USA",
+        "branch": "Kochi",
+        "startDate": "2026-08-26",
+        "schedule": "2026-08-26",
+        "year": 2026,
+        "time": "9 AM - 5 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=CMA%20USA",
+        "status": "published",
+        "order": 1,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-2",
+      "before": {
+        "kind": "batches",
+        "title": "CMA USA",
+        "branch": "Trivandrum",
+        "startDate": "",
+        "schedule": "26 Aug 2026",
+        "year": 2026,
+        "time": "9 AM – 5 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=CMA%20USA",
+        "status": "published",
+        "order": 2,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "CMA USA",
+        "branch": "Trivandrum",
+        "startDate": "2026-08-26",
+        "schedule": "2026-08-26",
+        "year": 2026,
+        "time": "9 AM - 5 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=CMA%20USA",
+        "status": "published",
+        "order": 2,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-3",
+      "before": {
+        "kind": "batches",
+        "title": "Integrated ACCA",
+        "branch": "Online",
+        "startDate": "",
+        "schedule": "30 Sep 2026",
+        "year": 2026,
+        "time": "Hybrid schedule",
+        "mode": "Hybrid",
+        "url": "/admissions?course=Integrated%20ACCA",
+        "status": "published",
+        "order": 3,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "Integrated ACCA(Hybrid + Amrita + Sastra)",
+        "branch": "Online",
+        "startDate": "2026-09-30",
+        "schedule": "2026-09-30",
+        "year": 2026,
+        "time": "",
+        "mode": "Hybrid",
+        "url": "/admissions?course=Integrated%20ACCA(Hybrid%20%2B%20Amrita%20%2B%20Sastra)",
+        "status": "published",
+        "order": 3,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-4",
+      "before": {
+        "kind": "batches",
+        "title": "CA Foundation + Plus One",
+        "branch": "Online",
+        "startDate": "",
+        "schedule": "30 Sep 2026",
+        "year": 2026,
+        "time": "7 PM – 9 PM",
+        "mode": "Online",
+        "url": "/admissions?course=CA%20Foundation%20%2B%20Plus%20One",
+        "status": "published",
+        "order": 4,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "CA FOUNDATION PLUS ONE ONLINE",
+        "branch": "Online",
+        "startDate": "2026-09-30",
+        "schedule": "2026-09-30",
+        "year": 2026,
+        "time": "7 pm -9pm",
+        "mode": "Online",
+        "url": "/admissions?course=CA%20FOUNDATION%20PLUS%20ONE%20ONLINE",
+        "status": "published",
+        "order": 4,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-5",
+      "before": {
+        "kind": "batches",
+        "title": "BAT Pro",
+        "branch": "Kochi",
+        "startDate": "",
+        "schedule": "September 2026",
+        "year": 2026,
+        "time": "5:30 PM – 7:30 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=BAT%20Pro",
+        "status": "published",
+        "order": 5,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "BAT",
+        "branch": "Kochi",
+        "startDate": "",
+        "schedule": "BAT PRO SEPTEMBER 2026 OFFLINE BATCH KOCHI",
+        "year": 2026,
+        "time": "5:30 PM-7:30 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=BAT",
+        "status": "published",
+        "order": 5,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-6",
+      "before": {
+        "kind": "batches",
+        "title": "BAT Pro Sunday",
+        "branch": "Kochi",
+        "startDate": "",
+        "schedule": "September 2026",
+        "year": 2026,
+        "time": "10 AM – 4 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=BAT%20Pro%20Sunday",
+        "status": "published",
+        "order": 6,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "BAT",
+        "branch": "Kochi",
+        "startDate": "",
+        "schedule": "BAT PRO SUNDAY 2026 OFFLINE BATCH KOCHI",
+        "year": 2026,
+        "time": "10 AM -4PM",
+        "mode": "Offline",
+        "url": "/admissions?course=BAT",
+        "status": "published",
+        "order": 6,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-7",
+      "before": {
+        "kind": "batches",
+        "title": "BAT Pro",
+        "branch": "Trivandrum",
+        "startDate": "",
+        "schedule": "September 2026",
+        "year": 2026,
+        "time": "5:30 PM – 7:30 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=BAT%20Pro",
+        "status": "published",
+        "order": 7,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "BAT",
+        "branch": "Trivandrum",
+        "startDate": "",
+        "schedule": "BAT PRO SEPTEMBER 2026 OFFLINE BATCH TRIVANDRUM",
+        "year": 2026,
+        "time": "5:30 PM-7:30 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=BAT",
+        "status": "published",
+        "order": 7,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-8",
+      "before": {
+        "kind": "batches",
+        "title": "BAT Pro",
+        "branch": "Kottayam",
+        "startDate": "",
+        "schedule": "September 2026",
+        "year": 2026,
+        "time": "5:30 PM – 7:30 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=BAT%20Pro",
+        "status": "published",
+        "order": 8,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "BAT",
+        "branch": "Kottayam",
+        "startDate": "",
+        "schedule": "BAT PRO SEPTEMBER 2026 OFFLINE BATCH KOTTAYAM",
+        "year": 2026,
+        "time": "5:30 PM-7:30 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=BAT",
+        "status": "published",
+        "order": 8,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-9",
+      "before": {
+        "kind": "batches",
+        "title": "DipIFR",
+        "branch": "Online",
+        "startDate": "",
+        "schedule": "September 2026",
+        "year": 2026,
+        "time": "7 PM – 9 PM",
+        "mode": "Online",
+        "url": "/admissions?course=DipIFR",
+        "status": "published",
+        "order": 9,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "Dip IFR",
+        "branch": "Online",
+        "startDate": "",
+        "schedule": "Dip IFR SEPTEMBER 2026 BATCH ONLINE",
+        "year": 2026,
+        "time": "7 pm -9pm",
+        "mode": "Online",
+        "url": "/admissions?course=Dip%20IFR",
+        "status": "published",
+        "order": 9,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-batch-10",
+      "before": {
+        "kind": "batches",
+        "title": "CMA USA Working Professionals",
+        "branch": "Online",
+        "startDate": "",
+        "schedule": "December 2026",
+        "year": 2026,
+        "time": "9 PM – 11 PM",
+        "mode": "Online",
+        "url": "/admissions?course=CMA%20USA%20Working%20Professionals",
+        "status": "published",
+        "order": 10,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "CMA USA",
+        "branch": "Online",
+        "startDate": "",
+        "schedule": "CMA USA DECEMBER 2026 WP BATCH",
+        "year": 2026,
+        "time": "9 pm -11pm",
+        "mode": "Online",
+        "url": "/admissions?course=CMA%20USA",
+        "status": "published",
+        "order": 10,
+        "featured": "no"
+      }
+    },
+    {
+      "id": "site-initial-110",
+      "before": {
+        "kind": "batches",
+        "title": "Executive Communication & Public Speaking",
+        "branch": "Contact admissions",
+        "startDate": "",
+        "schedule": "Sunday classes — enquire for next intake",
+        "year": 2026,
+        "time": "10:00 AM – 1:00 PM",
+        "mode": "Offline",
+        "url": "/admissions?course=Executive%20Communication%20%26%20Public%20Speaking",
+        "status": "published",
+        "order": 100,
+        "featured": "no"
+      },
+      "after": {
+        "kind": "batches",
+        "title": "PUBLIC SPEAKING",
+        "branch": "SUNDAY CLASSES 10 AM -1PM",
+        "startDate": "",
+        "schedule": "EXECUTIVE COMMUNICATION AND PUBLIC SPEAKING",
+        "year": 2026,
+        "time": "",
+        "mode": "Offline",
+        "url": "/admissions?course=PUBLIC%20SPEAKING",
+        "status": "published",
+        "order": 11,
+        "featured": "no"
+      }
+    }
+  ]
+}

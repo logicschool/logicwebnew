@@ -1,0 +1,36 @@
+/* Content arrangement only: colours and fonts inherit Logic's existing theme. */
+.logic-content-home .stat-strip{padding:18px 0;margin:0}
+.logic-content-home .stat-card{min-height:90px;padding:16px 22px}
+.logic-content-home .stat-card b{font-size:30px}
+.logic-content-home .home-hero{padding-top:56px}
+.logic-content-home .program-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.logic-course-card.program-card{display:flex;flex-direction:column;min-height:0;padding:26px;overflow:hidden}
+.logic-course-card.program-card.hidden{display:none}
+.logic-course-card.program-card::after{display:none}
+.logic-course-card .logic-course-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:8px}
+.logic-course-card .program-icon{margin:0;flex:0 0 48px}
+.logic-course-card h3{margin:10px 0;font-size:24px}
+.logic-course-card .logic-course-summary{font-size:14px;line-height:1.7;margin:0 0 18px}
+.logic-course-card dl{display:grid;gap:12px;margin:0 0 22px;padding-top:16px;border-top:1px solid var(--line)}
+.logic-course-card dt{font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--muted);font-weight:700}
+.logic-course-card dd{font-size:13px;margin:3px 0 0;color:var(--ink)}
+.logic-course-card .logic-course-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:auto}
+.logic-course-card .logic-course-actions .btn{position:static;inset:auto;min-height:42px;flex:1 1 auto;font-size:12px}
+.logic-content-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+#home-resources .logic-content-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+.logic-content-grid .sc-card{display:flex;flex-direction:column;min-width:0}
+.logic-content-grid .sc-card-body{display:flex;flex-direction:column;flex:1}
+.logic-content-grid .sc-card-body>.text-button{margin-top:auto;padding-top:14px}
+.logic-content-grid .sc-card h3{font-size:21px;line-height:1.35}
+.logic-content-grid .sc-card p{font-size:14px;line-height:1.7}
+.logic-content-section .section-head p{max-width:650px;color:var(--muted);margin-bottom:0}
+.logic-content-section:target{scroll-margin-top:130px}
+#home-learning,#home-resources,#course-batches{background:var(--soft)}
+.logic-faculty-grid .sc-portrait{height:300px;object-fit:cover;object-position:top}
+.logic-achiever-grid{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:16px}
+.logic-achiever-grid .result-poster-media{width:100%;height:auto;aspect-ratio:auto;padding:0;background:transparent}
+.logic-achiever-grid .result-poster-media img{height:auto;width:100%;object-fit:contain}
+.logic-content-home .results-preview:has(+ #home-achievers){padding-bottom:0}
+@media(max-width:1000px){.logic-content-home .program-grid,.logic-content-grid,#home-resources .logic-content-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.logic-achiever-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:600px){.logic-content-home .program-grid,.logic-content-grid,#home-resources .logic-content-grid{grid-template-columns:1fr}.logic-content-home .stat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.logic-content-home .stat-strip{padding:12px 0}.logic-content-home .stat-card{padding:12px;min-height:78px}.logic-content-home .stat-card b{font-size:26px}.logic-content-home .home-hero{padding-top:36px}.logic-course-card.program-card{padding:24px}.logic-achiever-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}}
+#home-insights .logic-content-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;align-items:stretch}#home-insights .blog-card{display:flex;min-width:0;margin:0;padding:0;overflow:hidden;background:#fff;border:1px solid #e1ebe5;border-radius:24px}#home-insights .blog-card-link{display:flex;flex-direction:column;flex:1;min-width:0;color:inherit;text-decoration:none}#home-insights .blog-card-visual{box-sizing:border-box;display:flex;flex-direction:column;justify-content:space-between;align-items:flex-start;flex:0 0 auto;min-height:220px;padding:24px;gap:24px}#home-insights .blog-card-visual strong{display:block;margin:0;font-size:clamp(23px,2vw,28px);line-height:1.2;letter-spacing:-.035em}#home-insights .blog-card-copy{display:flex;flex-direction:column;align-items:flex-start;flex:1;gap:14px;padding:24px;text-align:left}#home-insights .blog-card-copy>.course-tag{align-self:flex-start;margin:0}#home-insights .blog-card-copy>h3{min-height:4.05em;margin:0;padding:0;border:0;box-shadow:none;color:#151d29;font-family:"Plus Jakarta Sans",sans-serif;font-size:20px;font-weight:700;line-height:1.35;letter-spacing:-.025em}#home-insights .blog-card-copy>p{margin:0;padding:0;border:0;box-shadow:none;color:#687586;font-family:"DM Sans",sans-serif;font-size:15px;line-height:1.75}#home-insights .blog-card-copy>h3::before,#home-insights .blog-card-copy>h3::after,#home-insights .blog-card-copy>p::before,#home-insights .blog-card-copy>p::after{content:none}#home-insights .blog-card-copy>span:last-child{display:block;margin-top:auto;padding-top:10px;color:#087333;font-size:15px;font-weight:700;line-height:1.5}@media(max-width:1000px){#home-insights .logic-content-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:640px){#home-insights .logic-content-grid{grid-template-columns:1fr;gap:20px}#home-insights .blog-card-copy,#home-insights .blog-card-visual{padding:20px}#home-insights .blog-card-copy>h3{min-height:0}}

@@ -1,0 +1,765 @@
+[
+  {
+    "kind": "partners",
+    "title": "Amazon",
+    "description": "",
+    "image": "/assets/images/site-content/partners-1.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Capgemini",
+    "description": "",
+    "image": "/assets/images/site-content/partners-2.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Grant Thornton",
+    "description": "",
+    "image": "/assets/images/site-content/partners-3.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Caterpillar",
+    "description": "",
+    "image": "/assets/images/site-content/partners-4.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "ITC",
+    "description": "",
+    "image": "/assets/images/site-content/partners-5.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Wipro",
+    "description": "",
+    "image": "/assets/images/site-content/partners-6.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "NGA Human Resources",
+    "description": "",
+    "image": "/assets/images/site-content/partners-7.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Genpact",
+    "description": "",
+    "image": "/assets/images/site-content/partners-8.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Aon",
+    "description": "",
+    "image": "/assets/images/site-content/partners-9.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "EY",
+    "description": "",
+    "image": "/assets/images/site-content/partners-10.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Accenture",
+    "description": "",
+    "image": "/assets/images/site-content/partners-11.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "FedEx",
+    "description": "",
+    "image": "/assets/images/site-content/partners-12.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "EXL",
+    "description": "",
+    "image": "/assets/images/site-content/partners-13.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Alight",
+    "description": "",
+    "image": "/assets/images/site-content/partners-14.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "UST",
+    "description": "",
+    "image": "/assets/images/site-content/partners-15.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Xerox",
+    "description": "",
+    "image": "/assets/images/site-content/partners-16.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "J.P. Morgan",
+    "description": "",
+    "image": "/assets/images/site-content/partners-17.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Vedanta",
+    "description": "",
+    "image": "/assets/images/site-content/partners-18.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "H&R Block",
+    "description": "",
+    "image": "/assets/images/site-content/partners-19.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Infosys",
+    "description": "",
+    "image": "/assets/images/site-content/partners-20.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "HP",
+    "description": "",
+    "image": "/assets/images/site-content/partners-21.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Oracle",
+    "description": "",
+    "image": "/assets/images/site-content/partners-22.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Conduent",
+    "description": "",
+    "image": "/assets/images/site-content/partners-25.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Alshaya Group",
+    "description": "",
+    "image": "/assets/images/site-content/partners-26.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Paperchase",
+    "description": "",
+    "image": "/assets/images/site-content/partners-30.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "KPMG",
+    "description": "",
+    "image": "/assets/images/site-content/partners-31.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Deloitte",
+    "description": "",
+    "image": "/assets/images/site-content/partners-32.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "DXC Technology",
+    "description": "",
+    "image": "/assets/images/site-content/partners-33.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Northern Trust",
+    "description": "",
+    "image": "/assets/images/site-content/partners-34.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "IndianOil",
+    "description": "",
+    "image": "/assets/images/site-content/partners-35.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Goldman Sachs",
+    "description": "",
+    "image": "/assets/images/site-content/partners-36.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Entigrity",
+    "description": "",
+    "image": "/assets/images/site-content/partners-37.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Befree",
+    "description": "",
+    "image": "/assets/images/site-content/partners-38.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "partners",
+    "title": "Consero",
+    "description": "",
+    "image": "/assets/images/site-content/partners-39.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "IMA Platinum Course Provider",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-1.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "ACCA Approved Learning Partner",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-2.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "The Institute of Cost Accountants of India",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-3.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Amrita Vishwa Vidyapeetham",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-4.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "EduPulse Study Solutions",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-5.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "ASAP Kerala",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-6.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "CMA Certified Management Accountant",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-7.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Chinmaya Vishwa Vidyapeeth",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-8.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Hock International",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-9.webp",
+    "featured": "yes"
+  },
+  {
+    "kind": "affiliations",
+    "title": "SASTRA",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-11.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Skill India",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-12.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Sri Krishna Arts and Science College",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-13.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "St. Teresa’s College",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-14.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Zeta Academy of Excellence",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-15.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Leaders College of Commerce",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-16.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "St. Peter’s College, Kolenchery",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-17.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "St. Joseph’s College, Irinjalakuda",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-18.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Sree Narayana Guru Memorial Arts & Science College",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-19.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Mercy College",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-20.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "Dhanalakshmi Srinivasan Institute of Science and Technology",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-21.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "affiliations",
+    "title": "KMM College of Arts & Science",
+    "description": "",
+    "image": "/assets/images/site-content/affiliations-22.webp",
+    "featured": "no"
+  },
+  {
+    "kind": "life",
+    "title": "Student Club",
+    "description": "Join activities that encourage leadership, learning and participation.",
+    "subtitle": "Student clubs"
+  },
+  {
+    "kind": "life",
+    "title": "Dance & Music Club",
+    "description": "Make space for creative expression, performance and shared practice.",
+    "subtitle": "Student clubs"
+  },
+  {
+    "kind": "life",
+    "title": "Sports Club",
+    "description": "Bring teamwork and sportsmanship into campus life.",
+    "subtitle": "Student clubs"
+  },
+  {
+    "kind": "life",
+    "title": "Campus celebrations",
+    "description": "",
+    "subtitle": "From our event gallery",
+    "image": "/assets/images/site-content/life-1.webp"
+  },
+  {
+    "kind": "life",
+    "title": "On stage at Logic",
+    "description": "",
+    "subtitle": "From our event gallery",
+    "image": "/assets/images/site-content/life-2.webp"
+  },
+  {
+    "kind": "life",
+    "title": "Performing together",
+    "description": "",
+    "subtitle": "From our event gallery",
+    "image": "/assets/images/site-content/life-3.webp"
+  },
+  {
+    "kind": "life",
+    "title": "Festival moments",
+    "description": "",
+    "subtitle": "From our event gallery",
+    "image": "/assets/images/site-content/life-4.webp"
+  },
+  {
+    "kind": "life",
+    "title": "A campus in celebration",
+    "description": "",
+    "subtitle": "From our event gallery",
+    "image": "/assets/images/site-content/life-5.webp"
+  },
+  {
+    "kind": "life",
+    "title": "Student memories",
+    "description": "",
+    "subtitle": "From our event gallery",
+    "image": "/assets/images/site-content/life-6.webp"
+  },
+  {
+    "kind": "life",
+    "title": "Event highlights",
+    "description": "",
+    "subtitle": "From our event gallery",
+    "image": "/assets/images/site-content/life-7.webp"
+  },
+  {
+    "kind": "life",
+    "title": "Life beyond class",
+    "description": "",
+    "subtitle": "From our event gallery",
+    "image": "/assets/images/site-content/life-8.webp"
+  },
+  {
+    "kind": "skills",
+    "title": "Yes+",
+    "description": "Explore activities focused on confidence, wellbeing and personal development.",
+    "url": "/contact",
+    "buttonText": "Enquire about this programme"
+  },
+  {
+    "kind": "skills",
+    "title": "Upaya",
+    "description": "Explore Logic’s skill-building initiatives alongside your academic studies.",
+    "url": "/contact",
+    "buttonText": "Enquire about this programme"
+  },
+  {
+    "kind": "skills",
+    "title": "SFC",
+    "description": "Ask our team about the student support and development activities available at your campus.",
+    "url": "/contact",
+    "buttonText": "Enquire about this programme"
+  },
+  {
+    "kind": "skills",
+    "title": "EDC",
+    "description": "Explore opportunities to develop enterprise, initiative and collaborative skills.",
+    "url": "/contact",
+    "buttonText": "Enquire about this programme"
+  },
+  {
+    "kind": "skills",
+    "title": "Mock interviews",
+    "description": "Practise presenting your strengths and responding to interview questions.",
+    "url": "/contact",
+    "buttonText": "Enquire about this programme"
+  },
+  {
+    "kind": "skills",
+    "title": "Internship guidance",
+    "description": "Speak with the placement team about internship preparation and available opportunities.",
+    "url": "/contact",
+    "buttonText": "Enquire about this programme"
+  },
+  {
+    "kind": "skills",
+    "title": "Communication & public speaking",
+    "description": "Build confidence in presenting ideas and communicating in professional settings.",
+    "url": "/contact",
+    "buttonText": "Enquire about this programme"
+  },
+  {
+    "kind": "wellness",
+    "title": "Healthcare support brochure",
+    "description": "Explore the Aster healthcare benefits brochure shared for the Logic community. Confirm current terms and eligibility with the provider before booking.",
+    "url": "https://logiceducation.org/wp-content/uploads/2025/10/Logic-School.pdf",
+    "buttonText": "View brochure (PDF)"
+  },
+  {
+    "kind": "wellness",
+    "title": "Speak with your campus team",
+    "description": "Contact Logic for information about the support available to students and staff.",
+    "url": "/contact",
+    "buttonText": "Contact Logic"
+  },
+  {
+    "kind": "asap",
+    "title": "CA Foundation",
+    "description": "An introduction to the Chartered Accountancy pathway.",
+    "url": "/courses/ca-foundation",
+    "buttonText": "Explore programme"
+  },
+  {
+    "kind": "asap",
+    "title": "Certificate in Accounting Technicians (CAT)",
+    "description": "Explore training for practical accounting roles.",
+    "url": "/contact",
+    "buttonText": "Explore programme"
+  },
+  {
+    "kind": "asap",
+    "title": "Enrolled Agent (EA)",
+    "description": "Explore the US taxation programme listed by ASAP Kerala.",
+    "url": "https://asapkerala.gov.in/course/enrolled-agent-2/",
+    "buttonText": "Explore programme"
+  },
+  {
+    "kind": "asap",
+    "title": "Certified Public Accountant (CPA)",
+    "description": "Explore the CPA programme listed by ASAP Kerala.",
+    "url": "https://asapkerala.gov.in/course/cpa-usa-certified-public-accountant/",
+    "buttonText": "Explore programme"
+  },
+  {
+    "kind": "asap",
+    "title": "Certified Internal Auditor (CIA)",
+    "description": "Ask about the internal-audit learning pathway.",
+    "url": "/contact",
+    "buttonText": "Explore programme"
+  },
+  {
+    "kind": "updates",
+    "title": "Golden Eagle recognition",
+    "description": "",
+    "subtitle": "2023 · Eagle BizCon",
+    "image": "/assets/images/site-content/award-1.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "National Integration recognition",
+    "description": "",
+    "subtitle": "2022",
+    "image": "/assets/images/site-content/award-2.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "Happyfied Campus recognition",
+    "description": "",
+    "subtitle": "Campus wellbeing",
+    "image": "/assets/images/site-content/award-3.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "IMA appreciation letter",
+    "description": "",
+    "subtitle": "Logic’s 15th anniversary",
+    "image": "/assets/images/site-content/award-4.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "Pride of Kerala recognition",
+    "description": "",
+    "subtitle": "Education",
+    "image": "/assets/images/site-content/award-5.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "Kerala Commerce Forum recognition",
+    "description": "",
+    "subtitle": "Educational achievement",
+    "image": "/assets/images/site-content/award-6.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "Media One recognition",
+    "description": "",
+    "subtitle": "2021 · Education",
+    "image": "/assets/images/site-content/award-7.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "Ernakulam District Panchayat recognition",
+    "description": "",
+    "subtitle": "Education",
+    "image": "/assets/images/site-content/award-8.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "GCDA recognition",
+    "description": "",
+    "subtitle": "Education",
+    "image": "/assets/images/site-content/award-9.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "Recognition presented by Ahammed Devarkovil",
+    "description": "",
+    "subtitle": "Education",
+    "image": "/assets/images/site-content/award-10.webp"
+  },
+  {
+    "kind": "updates",
+    "title": "Recognition presented by Roshy Augustine",
+    "description": "",
+    "subtitle": "Education",
+    "image": "/assets/images/site-content/award-11.webp"
+  },
+  {
+    "kind": "recruit",
+    "title": "Tell us what you need",
+    "description": "Share the role, location, skills and experience you are looking for.",
+    "url": "#employer-enquiry",
+    "buttonText": "Discuss your requirement"
+  },
+  {
+    "kind": "recruit",
+    "title": "Connect with our placement team",
+    "description": "Discuss your requirements with a single point of contact at Logic.",
+    "url": "#employer-enquiry",
+    "buttonText": "Discuss your requirement"
+  },
+  {
+    "kind": "recruit",
+    "title": "Meet potential candidates",
+    "description": "Coordinate candidate screening and interviews with our placement team.",
+    "url": "#employer-enquiry",
+    "buttonText": "Discuss your requirement"
+  },
+  {
+    "kind": "ca-foundation",
+    "title": "Accounting",
+    "description": "",
+    "subtitle": "Paper 1"
+  },
+  {
+    "kind": "ca-foundation",
+    "title": "Business Laws",
+    "description": "",
+    "subtitle": "Paper 2"
+  },
+  {
+    "kind": "ca-foundation",
+    "title": "Quantitative Aptitude",
+    "description": "",
+    "subtitle": "Paper 3"
+  },
+  {
+    "kind": "ca-foundation",
+    "title": "Business Economics",
+    "description": "",
+    "subtitle": "Paper 4"
+  },
+  {
+    "kind": "ca-inter",
+    "title": "Advanced Accounting",
+    "description": "",
+    "subtitle": "Paper 1 · Group 1"
+  },
+  {
+    "kind": "ca-inter",
+    "title": "Corporate and Other Laws",
+    "description": "",
+    "subtitle": "Paper 2 · Group 1"
+  },
+  {
+    "kind": "ca-inter",
+    "title": "Taxation",
+    "description": "",
+    "subtitle": "Paper 3 · Group 1"
+  },
+  {
+    "kind": "ca-inter",
+    "title": "Cost and Management Accounting",
+    "description": "",
+    "subtitle": "Paper 4 · Group 2"
+  },
+  {
+    "kind": "ca-inter",
+    "title": "Auditing and Ethics",
+    "description": "",
+    "subtitle": "Paper 5 · Group 2"
+  },
+  {
+    "kind": "ca-inter",
+    "title": "Financial Management and Strategic Management",
+    "description": "",
+    "subtitle": "Paper 6 · Group 2"
+  },
+  {
+    "kind": "ca-final",
+    "title": "Financial Reporting",
+    "description": "",
+    "subtitle": "Paper 1 · Group 1"
+  },
+  {
+    "kind": "ca-final",
+    "title": "Advanced Financial Management",
+    "description": "",
+    "subtitle": "Paper 2 · Group 1"
+  },
+  {
+    "kind": "ca-final",
+    "title": "Advanced Auditing, Assurance and Professional Ethics",
+    "description": "",
+    "subtitle": "Paper 3 · Group 1"
+  },
+  {
+    "kind": "ca-final",
+    "title": "Direct Tax Laws & International Taxation",
+    "description": "",
+    "subtitle": "Paper 4 · Group 2"
+  },
+  {
+    "kind": "ca-final",
+    "title": "Indirect Tax Laws",
+    "description": "",
+    "subtitle": "Paper 5 · Group 2"
+  },
+  {
+    "kind": "ca-final",
+    "title": "Integrated Business Solutions",
+    "description": "",
+    "subtitle": "Paper 6 · Group 2"
+  },
+  {
+    "kind": "batches",
+    "title": "Executive Communication & Public Speaking",
+    "description": "",
+    "branch": "Contact admissions",
+    "schedule": "Sunday classes — enquire for next intake",
+    "year": 2026,
+    "time": "10:00 AM – 1:00 PM",
+    "mode": "Offline",
+    "url": "/admissions?course=Executive%20Communication%20%26%20Public%20Speaking",
+    "order": 100
+  }
+]

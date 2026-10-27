@@ -1,0 +1,20 @@
+{
+  "runtime": "built dist using isolated PGlite test database",
+  "checks": [
+    {
+      "width": 1440,
+      "posterOnly": true,
+      "noOverflow": true,
+      "lightbox": true
+    },
+    {
+      "width": 390,
+      "posterOnly": true,
+      "noOverflow": true,
+      "lightbox": true
+    }
+  ],
+  "errors": [],
+  "cleanUrlRedirect": true,
+  "smokeRoutes": 7
+}
